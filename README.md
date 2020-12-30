@@ -9,7 +9,7 @@
 I have more than 2 years of experience in software development.
 Currently working as a Fullstack Software Developer at Digivox and DathApp
 
-I'm passionate about React.js, React Native, Typescript, and also taking knowledge at Node.js
+I'm passionate about React.js, React Native, Typescript, and also taking knowledge at Node.js.
 
 Trying to improve my skills as a software developer and leading people everytime and everyday.
 
