@@ -4,6 +4,15 @@
 - 💬 Ask me about React.js/React Native/Typescript
 - 📫 How to reach me: daniel.cassiano@live.com
 
+## I'm a Fullstack Software Developer from Brazil
+
+I have more than 2 years of experience in software development.
+Currently working as a Fullstack Software Developer at Digivox and DathApp
+
+I'm passionate about React.js, React Native, Typescript, and also taking knowledge at Node.js
+
+Trying to improve my skills as a software developer and leading people everytime and everyday.
+
 ## Languages, Technologies & Tools
 
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
