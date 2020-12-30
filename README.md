@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Digivox and DathApp
-- 🌱 I’m currently learning Typescript
-- 💬 Ask me about React.js
+- 💬 Ask me about React.js/React Native/Typescript
 - 📫 How to reach me: daniel.cassiano@live.com
 
 ## Languages, Technologies & Tools
