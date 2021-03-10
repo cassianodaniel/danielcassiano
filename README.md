@@ -4,7 +4,7 @@
 - 💬 Ask me about React.js/React Native/Typescript
 - 📫 How to reach me: daniel.cassiano@live.com
 
-## I'm a Frontend Software Engineer from Brazil
+## I'm a Frontend Software Developer from Brazil
 
 I have more than 2 years of experience in software development.
 Currently working as a Frontend Software Engineer at Digivox and DathApp
