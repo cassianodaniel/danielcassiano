@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Digivox and DathApp
+- 🔭 I’m currently working on Digivox, Vortigo and DathApp
 - 💬 Ask me about React.js/React Native/Typescript
 - 📫 How to reach me: daniel.cassiano@live.com
 
