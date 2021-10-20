@@ -6,7 +6,7 @@
 
 ## I'm a Frontend Software Developer from Brazil
 
-I have more than 2 years of experience in software development.
+I have around 3 years of software development at all.
 Currently working as a Frontend Software Developer at Digivox, Vortigo Digital and DathApp
 
 I'm passionate about React.js, React Native, Typescript, and also taking knowledge at Node.js.
