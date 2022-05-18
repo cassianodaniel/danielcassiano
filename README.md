@@ -7,6 +7,6 @@
 
 I have around 3 years of software development at all.
 
-I'm passionate about Javascript/TS: React, Svelte;
+I'm passionate about React, Svelte, Javascript and Typescript!
 
 Trying to improve my skills as a software developer and leading people everytime and everyday.
