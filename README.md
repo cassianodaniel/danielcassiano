@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about React/Svelte/Javascript/Typescript
+- 💬 Ask me about React, Svelte, Javascript, Typescript
 - 📫 How to reach me: daniel.cassiano@live.com
 
 ## I'm a Frontend Software Developer from Brazil
