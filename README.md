@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 React, Svelte, JS, TS, HTML, CSS, SASS, React Testing Library, Jest.
+- 💻 React, Svelte - JS, TS;
 - 📫 Reach me at: daniel.cassiano@live.com
 
 ## I'm a Frontend Software Developer from Brazil
