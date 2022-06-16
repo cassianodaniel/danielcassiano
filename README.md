@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 React, Svelte - JS, TS;
+- 💻 Ask me about React, Svelte - JS, TS;
 - 📫 Reach me at: daniel.cassiano@live.com
 
 ## I'm a Javascript Front End Developer from Brazil
