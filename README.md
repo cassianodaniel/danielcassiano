@@ -5,4 +5,4 @@
 
 ## I'm a Javascript Front End Developer from Brazil
 
-Around 3.5 years improving my skills as a software developer.
+Around 4 years improving my skills as a software developer.
