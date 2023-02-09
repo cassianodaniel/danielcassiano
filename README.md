@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💻 Ask me about React, Svelte - JS, TS;
+- 💻 Ask me about Javascript!
 - 📫 Reach me at: daniel.cassiano@live.com
 
-## I'm a Javascript Front End Developer from Brazil
+## I'm a Front End Developer from Brazil
 
 Around 4 years improving my skills as a software developer.
