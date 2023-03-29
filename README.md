@@ -17,7 +17,7 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 - Svelte
 - HTML, CSS, SCSS, TailwindCSS, Bootstrap
 
-## Backend End Development 
+## Back End Development 
 
 - Node
 - Express
@@ -48,13 +48,6 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 
 - HostGator
 - AWS EC2
-
-## Styles Tech Stack
-
-- CSS,
-- SCSS,
-- Tailwind CSS,
-- Bootstrap
 
 ## Project Management
 
