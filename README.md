@@ -12,6 +12,8 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 
 - JavaScript / TypeScript
 - React (legacy or not)
+- React Redux
+- Context API
 - Svelte
 - HTML, CSS, SCSS, TailwindCSS, Bootstrap
 
