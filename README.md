@@ -103,5 +103,5 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 
 ## Academic 
 
-- Bachelor in Computer Engineering (incomplete) - UFPB
-- Technologist in System Analysis (in proccess) - Unipê
+- Bachelor in Computer Engineering (incomplete) | @UFPB
+- Technologist in System Analysis (in proccess) | @Unipê
