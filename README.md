@@ -19,7 +19,6 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 
 - Node
 - Express
-- Deno
 
 ## Databases
 
