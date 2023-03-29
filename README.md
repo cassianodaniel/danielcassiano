@@ -6,26 +6,26 @@
 
 ## I'm a Software Developer from Brazil
 
-Around 4 years improving my skills as a programmer and working as a Front-end Engineer. 
+Around 4 years improving my skills as a programmer and working as a Front-end Engineer.  
 
-### Front End Development 
+## Front End Development 
 
 - JavaScript / TypeScript
 - React (legacy or not)
 - Svelte
 - HTML, CSS, SCSS, TailwindCSS and many more..
 
-### Backend End Development 
+## Backend End Development 
 
 - Node
 - Express
 - Deno
 
-### Databases
+## Databases
 
 - MySQL
 
-### Cross-platform Applications
+## Cross-platform Applications
 
 - Electron
 
@@ -33,29 +33,29 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 
 - React Native Applications
 
-### Data Scraping / Crawling / Mining / Data Extraction
+## Data Scraping / Crawling / Mining / Data Extraction
 
 - Puppeteer (express)
 
-### Design 
+## Design 
 
 - Figma
 - Zeplin
 - Adobe XD
 
-### Deploying
+## Deploying
 
 - HostGator
 - AWS EC2
 
-### Styles Tech Stack
+## Styles Tech Stack
 
 - CSS,
 - SCSS,
 - Tailwind CSS,
 - Bootstrap
 
-### Project Management
+## Project Management
 
 - Git
 - GitHub
@@ -64,15 +64,15 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 - Jira
 - Trello
 
-### Browser Optimization
+## Browser Optimization
 
 - Google Lighthouse
 
-### Analytics 
+## Analytics 
 
 - June Analytics Framework
 
-### Testing
+## Testing
 
 - Unit testing
 - Integration testing
@@ -83,18 +83,18 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 - Selenium IDE
 - React-testing-library
 
-### Agile
+## Agile
 
 - Scrum
 - Kambam
 
-### Package Managers
+## Package Managers
 
 - npm
 - yarn
 - pnpm
 
-### O.S.
+## O.S.
 
 - Windows
 - MacOS
