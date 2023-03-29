@@ -13,7 +13,7 @@ Around 4 years improving my skills as a programmer and working as a Front-end En
 - JavaScript / TypeScript
 - React (legacy or not)
 - Svelte
-- HTML, CSS, SCSS, TailwindCSS and many more..
+- HTML, CSS, SCSS, TailwindCSS, Bootstrap
 
 ## Backend End Development 
 
