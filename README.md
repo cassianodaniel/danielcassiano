@@ -2,6 +2,6 @@
 
 🧑‍💻 Around 4 years coding Javascript! 
 
-💻 I want to become a Full Cycle developer! 
+💻 Full-stack Developer
 
 🌐 Take a look on [my website](https://danielcassiano.github.io/)!
