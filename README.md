@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🧑‍💻 Around 4 years coding Javascript! 
+🧑‍💻 I am a Full Stack Software Engineer!
 
-💻 Full-stack Developer
-
-🌐 Take a look on [my website](https://danielcassiano.github.io/)!
+🌐 Take a look at [my website](https://danielcassiano.github.io/)!
