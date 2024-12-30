@@ -27,5 +27,5 @@ I have contributed to a variety of CRUD-based projects, working primarily with m
 ## Education
 
 - **UFPB (Federal University of Paraíba)** | Partial coursework completed towards a degree in in Computer Engineering  (Jan 2019 - 2022)
-- **UNIPE** | Bachelor's in Software Systems Development (Jan 2022 - Dec 2024)
+- **UNIPE** | AS in Computer Systems Analysis (Jan 2022 - Dec 2024)
 - **Rothesay High School** | High School, Canada (Completed)
