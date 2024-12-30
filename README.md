@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a passionate and experienced full-stack developer with around 5 years of professional work expertise in building dynamic and scalable online applications, primarily within the JavaScript ecosystem. I thrive in both front-end and back-end development, with a focus on delivering efficient, high-quality solutions.
+I am a passionate full-stack developer with around 5 years of professional work expertise in building dynamic and scalable online applications, primarily within the JavaScript ecosystem. I thrive in both front-end and back-end development, with a focus on delivering efficient, high-quality solutions.
 
 I have contributed to a variety of CRUD-based projects, working primarily with modern technologies like React, Next.js, Svelte, SvelteKit, Node.js, EdgeDB and PostgreSQL. I'm always eager to learn new technologies and improve my skills in development practices.
 
