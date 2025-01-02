@@ -17,12 +17,17 @@ I have contributed to a variety of CRUD-based projects, working primarily with m
 
 ## Skills
 
-- **Frontend:** React, Next.js, Svelte, SvelteKit, Electron
+- **Frontend:** React, Next.js, Svelte, SvelteKit
 - **Backend:** Node.js, Deno, Express, Hono
 - **Databases:** PostgreSQL, EdgeDB, Drizzle, Supabase, Knex, Redis
 - **Testing & Tools:** React Testing Library, Cypress, Vitest, Jest, Playwright, Puppeteer, Docker, GitHub Actions
 - **Cloud & Deployment:** EC2, Render, Vercel
-- **Programming Languages:** JavaScript, TypeScript, C, C++, Java
+- **Programming Languages:** JavaScript, TypeScript, C, C++
+
+## Current interest at
+
+- Backend
+- AI-based apps
 
 ## Education
 
