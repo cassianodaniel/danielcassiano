@@ -17,7 +17,7 @@ I have contributed to a variety of CRUD-based projects, working primarily with m
 
 ## Skills
 
-- **Frontend:** React, Next.js, Svelte, SvelteKit, HTML, CSS, SASS, Tailwind CSS, Bootstrap, Redux, ContextAPI, Electron
+- **Frontend:** React, Next.js, Svelte, SvelteKit, Electron
 - **Backend:** Node.js, Deno, Express, Hono, Java, Spring Boot
 - **Databases:** PostgreSQL, EdgeDB, Drizzle, Supabase, Knex, Redis
 - **Testing & Tools:** React Testing Library, Cypress, Vitest, Jest, Playwright, Puppeteer, Docker, GitHub Actions
