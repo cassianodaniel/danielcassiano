@@ -24,9 +24,9 @@ I have contributed to a variety of CRUD-based projects, working primarily with m
 - **Cloud & Deployment:** EC2, Render, Vercel
 - **Programming Languages:** JavaScript, TypeScript, C, C++
 
-## Current interest at
+## Interests
 
-- Backend
+- Backend services
 - AI-based apps
 
 ## Education
