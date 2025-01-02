@@ -22,7 +22,7 @@ I have contributed to a variety of CRUD-based projects, working primarily with m
 - **Databases:** PostgreSQL, EdgeDB, Drizzle, Supabase, Knex, Redis
 - **Testing & Tools:** React Testing Library, Cypress, Vitest, Jest, Playwright, Puppeteer, Docker, GitHub Actions
 - **Cloud & Deployment:** EC2, Render, Vercel
-- **Other:** JavaScript, TypeScript, C, Linux Basics, Vite
+- **Programming Languages:** JavaScript, TypeScript, C, C++, Java
 
 ## Education
 
