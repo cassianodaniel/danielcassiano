@@ -27,7 +27,6 @@ I have contributed to a variety of CRUD-based projects, working primarily with m
 ## Interests
 
 - Backend services
-- AI-based apps
 
 ## Education
 
